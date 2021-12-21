@@ -1,0 +1,42 @@
+.inputText{
+    font-family: Helvetica;
+    margin-left: 7%;
+    width: 207px;
+    font-size: 16px;
+    height: 30px;
+    margin-top: 5px;
+    border-radius: 10px;
+}
+
+.main {
+    margin-top: 9%;
+    margin-left: 40%;
+    margin-right: 47.7%;
+    width: 250px;
+    height: 300px;
+    background-color: #929292;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    border-radius: 10%;
+}
+
+.error {
+    margin-left: 4%;
+    color: crimson;
+    font-size: 20px;
+    font-family: Georgia;
+    text-align: center;
+}
+
+.buttonSubmit{
+    margin-top: 10px;
+    font-size: 14px;
+    width: 100px;
+    height: 30px;
+    margin-left: 50%;
+    border-radius: 5px;
+    border: 2px solid black;
+    font-family: Helvetica;
+    background-color: #e6e6e6;
+}
